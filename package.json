@@ -1,0 +1,26 @@
+{
+  "name": "bezier",
+  "version": "0.0.1",
+  "description": "JavaScript port of Webkit CSS cubic-bezier(p1x.p1y,p2x,p2y) and various approximations.",
+  "main": "bezier.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matiasjgoitea/bezier.git"
+  },
+  "keywords": [
+    "bezier"
+  ],
+  "author": "Etermax",
+  "contributors":{
+    "name": "Matias Goitea",
+    "email": "matiasjgoitea@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matiasjgoitea/bezier/issues"
+  },
+  "homepage": "https://github.com/matiasjgoitea/bezier#readme"
+}
